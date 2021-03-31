@@ -167,9 +167,9 @@ header {
     padding: 1rem 3rem;
     border: none;
     border-radius: 5px;
-    background: #000046;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #000046; 
+    background: -webkit-linear-gradient(to right, #1CB5E0, #000046); 
+    background: linear-gradient(to right, #1CB5E0, #000046);
 
     cursor: pointer;
     opacity: 0;
@@ -470,9 +470,9 @@ menu-link:hover{
 }
 
 .btn{
-    background: #000046;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #000046; 
+    background: -webkit-linear-gradient(to right, #1CB5E0, #000046); 
+    background: linear-gradient(to right, #1CB5E0, #000046); 
 
     font-family: var(--font-action);
     font-size: 1rem;
@@ -635,9 +635,9 @@ footer{
     bottom: 3rem;
     width: 3rem;
     height: 3rem;
-    background: #000046;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #000046; 
+    background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  
+    background: linear-gradient(to right, #1CB5E0, #000046); 
 
     display: flex;
     justify-content: center;
